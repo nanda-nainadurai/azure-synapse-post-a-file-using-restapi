@@ -1,0 +1,11 @@
+Employee_ID,First_Name,Last_Name,Date_of_Birth,Position,Department,Date_of_Joining,Email,Phone_Number,Salary
+E1001,John,Doe,1990-01-15,Software Developer,IT,2015-06-01,john.doe@example.com,123-456-7890,60000
+E1002,Jane,Smith,1985-05-20,HR Manager,Human Resources,2014-08-10,jane.smith@example.com,123-456-7891,65000
+E103,Alice,Brown,1998-07-20,Data Analyst,Analytics,2019-11-23,alice.brown@example.com,123-456-783,73911
+E104,Bob,White,1998-05-20,Product Manager,Product,2020-08-31,bob.white@example.com,123-456-784,59405
+E105,Charlie,Green,1997-08-28,Design Lead,Design,2020-10-26,charlie.green@example.com,123-456-785,49108
+E106,David,Black,1998-07-05,QA Engineer,Quality,2021-03-27,david.black@example.com,123-456-786,72702
+E107,Eve,Grey,2000-06-24,Network Administrator,IT,2019-07-13,eve.grey@example.com,123-456-787,52307
+E108,Frank,Blue,1996-04-11,Sales Executive,Sales,2021-07-22,frank.blue@example.com,123-456-788,72986
+E109,Grace,Yellow,1985-02-12,Research Scientist,R&D,2018-04-18,grace.yellow@example.com,123-456-789,70535
+E1010,Hannah,Pink,1989-03-01,Marketing Specialist,Marketing,2020-02-20,hannah.pink@example.com,123-456-7810,75673
